@@ -1,7 +1,7 @@
 # Radix
 Este código fue echo en Dev c++ utilizando el método Radix   
 
-En este segmento del código se muestran la estructura y las variables que son de tipo entero 
+En este segmento del código se muestran la estructura y las variables que son de tipo entero
 
 ![image](https://user-images.githubusercontent.com/71095993/97491079-4a8b6380-1927-11eb-8e63-d8914215990e.png)
 
